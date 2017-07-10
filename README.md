@@ -14,10 +14,10 @@ The basic challenge is that there is no easy way for the user to make a nanopaym
 ## Current Alternatives
 There are several projects which are attempting to address this challenge. The Brave browser has issued Basic Attention Tokens (BATs). BATS work in a different direction to this project: where advertisers pay users for their attention. This project works by users paying IOTA to the publisher for not showing the ad.
 
-Other cryptocurrencies can be used as the micropayment to the publisher. Bitcoin and ethereum are certainly alternatives. Currently, these cryptocurrencies have not caught on widely for ad level based compensation.
+Other cryptocurrencies can be used as the micropayment to the publisher. Bitcoin and ethereum are certainly alternatives. Currently, these cryptocurrencies have not caught on widely for ad level based compensation. These two alternatives also have transaction fees that could make the nanopayment impractical.
 
 ## What is IOTA?
-IOTA is a revolutionary new transactional settlement and data integrity layer for the Internet of Things. It�s based on a new distributed ledger architecture, the Tangle, which overcomes the inefficiencies of current Blockchain designs and introduces a new way of reaching consensus in a decentralized peer-to-peer system. For the first time ever, through IOTA people can transfer money without any fees. This means that even infinitesimally small nanopayments can be made through IOTA. For more information on IOTA, see <https://www.iota.org>
+IOTA is a revolutionary new transactional settlement and data integrity layer for the Internet of Things. It's based on a new distributed ledger architecture, the Tangle, which overcomes the inefficiencies of current Blockchain designs and introduces a new way of reaching consensus in a decentralized peer-to-peer system. For the first time ever, through IOTA people can transfer money without any fees. This means that even infinitesimally small nanopayments can be made through IOTA. For more information on IOTA, see <https://www.iota.org>
 
 ## Why IOTA with ads?
 The developers of IOTA have determined that the Internet of Things (IOT) is best suited for its initial adoption. However, the developers have not restricted its use to other formats (including ads). Since IOTA was developed for high volume, nano-payments, it could be a good candidate as a page level compensation mechanism between the user and publisher.
