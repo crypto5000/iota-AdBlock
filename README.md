@@ -36,6 +36,7 @@ Future enhancements can include:
 ## Installation Instructions for Publishers
 1) Copy the src folder into your website root directory. If you already have a src folder in your directory, just copy the files into that existing folder.
 2) Include the jquery, overhang.js, and iota.js links in your webpage. You can view the example.html file that shows the placement of the various links. You need to include the following 5 lines in your webpage file:
+
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
     <link rel="stylesheet" type="text/css" href="./src/overhang.min.css" />
@@ -51,5 +52,6 @@ Note: It is suggested that you create a new wallet and new Receive Address when 
 
 ## Support
 You can support the development of this module by sending IOTA to the address:
-
+```
 YEZPYADNYFRKZAJGBKIHYAZDXTDZVWPCQNSYMTLKRXCVTHURTVRFQZHAXTHMGOMCKLHXOYGASTNEJMZELNPFZ9MMKN
+```
