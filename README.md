@@ -2,7 +2,7 @@
 A project to use the major benefits of IOTA (infinitesimally small nanopayments, no transaction fees, etc.) to improve the friction between website publishers and people using ad blockers.
 
 ## Demo
-![alt text](https://github.com/crypto5000/iota-AdBlock/demo.gif "Website Demo")
+![Alt text](/demo.gif?raw=true "Website Demo")
 
 ## Background
 Currently there is no widely adopted mechanism for users to make nanopayments to publishers when a user blocks ads on a page. By default, ad blockers typically block all ads all the time (except for a few ads that the ad blocker makers allow to be displayed) and don't compensate publishers for blocking ads. To combat this, publishers are increasingly detecting ad blockers and restricting access to site content unless the blocker whitelists the site.
