@@ -9,8 +9,6 @@ Currently there is no widely adopted mechanism for users to make nanopayments to
 
 The basic challenge is that there is no easy way for the user to make a nanopayment to the publisher on a per ad (or per page view) basis. Two of the major reasons this is not easy are transaction fees and scalability. Given the size of payment per ad, transaction fees generally make the nanopayment cost prohibitive. Plus, the advertising exchanges are automatically processing huge levels of transactions. Being able to scale is a big difficulty.
 
-![alt text](https://www.centro.net/blogdev/wp-content/uploads/2017/02/1_RTB_Ecosystem_with_border.jpg "Ad Exchange")
-
 ## Current Alternatives
 There are several projects which are attempting to address this challenge. The Brave browser has issued Basic Attention Tokens (BATs). BATS work in a different direction to this project: where advertisers pay users for their attention. This project works by users paying IOTA to the publisher for not showing the ad.
 
@@ -50,9 +48,3 @@ Future enhancements can include:
  ```   
 
 Note: It is suggested that you create a new wallet and new Receive Address when you first install iota-AdBlock. Since an address becomes weakened after sending, it is suggested you accumulate IOTA and when it reaches a certain level, send all the IOTA to a new wallet and then start over from a new Receive Address.
-
-## Support
-You can support the development of this module by sending IOTA to the address:
-```
-YEZPYADNYFRKZAJGBKIHYAZDXTDZVWPCQNSYMTLKRXCVTHURTVRFQZHAXTHMGOMCKLHXOYGASTNEJMZELNPFZ9MMKN
-```
